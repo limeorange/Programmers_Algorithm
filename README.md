@@ -1,4 +1,10 @@
-# Level 1
+# Programmers
+
+<details>
+<summary> Level 1 </summary>
+<div markdown='1'>  
+<br>
+  
 | No. | Title | Type | Blog |
 |:------:|:-----:|:----:|:----:|
 | 01 | [x만큼 간격이 있는 n개 숫자](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%201/Lv1_01%20x%EB%A7%8C%ED%81%BC%20%EA%B0%84%EA%B2%A9%EC%9D%B4%20%EC%9E%88%EB%8A%94%20n%EA%B0%9C%20%EC%88%AB%EC%9E%90.ipynb) | 연습문제 | |
@@ -20,8 +26,8 @@
 | 17 | [문자열을 정수로 바꾸기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%201/Lv1_17%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.ipynb) | 연습문제 |
 | 18 | | |
 
-
-
+</div>
+</details>
 
 
 
