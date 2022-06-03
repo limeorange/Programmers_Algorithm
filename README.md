@@ -2,7 +2,7 @@
 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 문제를 풀고 공부한 내용을 기록하는 공간 ✍🏻✨
 
 <details>
-<summary> Level 1 (55/55) </summary>
+<summary> Level 1 (완료 - 55 / 55) </summary>
 <div markdown='1'>  
 <br>
   
@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (27/74) </summary>
+<summary> Level 2 (진행 중 - 27 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -107,7 +107,7 @@
 </details>
 
 <details>
-<summary> Level 3 (진행중) </summary>
+<summary> Level 3 (진행 중 - 1 / 51) </summary>
 <div markdown='1'>  
 <br>
   
