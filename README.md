@@ -102,3 +102,19 @@
 | 25 | [더 맵게](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_25%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb) | 힙(Heap) |  |
 | 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
 | 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
+  
+  </div>
+</details>
+
+<details>
+<summary> Level 3 (진행중) </summary>
+<div markdown='1'>  
+<br>
+  
+| No. | Title | Type | Blog |
+|:------:|:-----:|:----:|:----:|
+| 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 ||
+|  |  |  |  |
+
+ </div>
+</details>
