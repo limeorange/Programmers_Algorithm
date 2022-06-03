@@ -114,7 +114,6 @@
 | No. | Title | Type | Blog |
 |:------:|:-----:|:----:|:----:|
 | 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 ||
-|  |  |  |  |
 
  </div>
 </details>
