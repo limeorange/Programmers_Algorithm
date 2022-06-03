@@ -1,5 +1,6 @@
 # Programmers
 [프로그래머스](https://programmers.co.kr/learn/challenges)에서 문제를 풀고 공부한 내용을 기록하는 공간 ✍🏻✨
+사용 언어 : Python
 
 <details>
 <summary> Level 1 (완료 - 55 / 55) </summary>
