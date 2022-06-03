@@ -90,15 +90,15 @@
 | 13 | [다음 큰 숫자](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_13%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.ipynb) | 연습문제 |  |
 | 14 | [피보나치 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_14%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.ipynb) | 연습문제 |  |
 | 15 | [피로도](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_15%20%ED%94%BC%EB%A1%9C%EB%8F%84.ipynb) | 위클리 챌린지 |  |
-| 16 | []() |  |  |
-| 17 | []() |  |  |
-| 18 | []() |  |  |
-| 19 | []() |  |  |
-| 20 | []() |  |  |
-| 21 | []() |  |  |
-| 22 | []() |  |  |
-| 23 | []() |  |  |
-| 24 | []() |  |  |
-| 25 | []() |  |  |
-| 26 | []() |  |  |
-| 27 | []() |  |  |
+| 16 | [스킬트리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_16%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.ipynb) | Summer/Winter Coding(~2018) |  |
+| 17 | [전화번호 목록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_17%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.ipynb) | 해시 |  |
+| 18 | [가장 큰 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_18%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.ipynb) |  | 정렬 |
+| 19 | [영어 끝말잇기]() | https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_19%20%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.ipynb | Summer/Winter Coding(~2018) |
+| 20 | [위장](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_20%20%EC%9C%84%EC%9E%A5.ipynb) | 해시 |  |
+| 21 | [메뉴 리뉴얼](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_21%20%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.ipynb) | 2021 KAKAO BLIND RECRUITMENT |  |
+| 22 | [소수 찾기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_22%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.ipynb) | 완전탐색 |  |
+| 23 | [카펫](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_23%20%EC%B9%B4%ED%8E%AB.ipynb) | 완전탐색 |  |
+| 24 | [H-Index](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_24%20H-Index.ipynb) | 정렬 |  |
+| 25 | [더 맵게](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_25%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb) | 힙(Heap) |  |
+| 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
+| 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
