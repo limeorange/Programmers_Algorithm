@@ -92,7 +92,7 @@
 | 15 | [피로도](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_15%20%ED%94%BC%EB%A1%9C%EB%8F%84.ipynb) | 위클리 챌린지 |  |
 | 16 | [스킬트리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_16%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.ipynb) | Summer/Winter Coding(~2018) |  |
 | 17 | [전화번호 목록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_17%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.ipynb) | 해시 |  |
-| 18 | [가장 큰 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_18%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.ipynb) |  | 정렬 |
+| 18 | [가장 큰 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_18%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.ipynb) | 정렬 |  |
 | 19 | [영어 끝말잇기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_19%20%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.ipynb) | Summer/Winter Coding(~2018) |  |
 | 20 | [위장](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_20%20%EC%9C%84%EC%9E%A5.ipynb) | 해시 |  |
 | 21 | [메뉴 리뉴얼](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_21%20%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.ipynb) | 2021 KAKAO BLIND RECRUITMENT |  |
