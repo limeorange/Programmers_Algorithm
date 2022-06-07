@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 30 / 74) </summary>
+<summary> Level 2 (진행 중 - 31 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -105,7 +105,7 @@
 | 28 | [다리를 지나는 트럭](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_28%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.ipynb) | 스택/큐 ||
 | 29 | [줄 서는 방법](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb) | 연습문제 ||
 | 30 | [프린터](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_30%20%ED%94%84%EB%A6%B0%ED%84%B0.ipynb) | 스택/큐 ||
-| 31 ||||
+| 31 | [멀리 뛰기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_31%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.ipynb) | 연습문제 ||
 | 32 ||||
 | 33 ||||
 
