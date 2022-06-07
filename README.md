@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 28 / 74) </summary>
+<summary> Level 2 (진행 중 - 29 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -103,6 +103,12 @@
 | 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
 | 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
 | 28 | [다리를 지나는 트럭](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_28%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.ipynb) | 스택/큐 ||
+| 29 | [줄 서는 방법](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb) | 연습문제 ||
+| 30 ||||
+| 31 ||||
+| 32 ||||
+| 33 ||||
+
   
   </div>
 </details>
