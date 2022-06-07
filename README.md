@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 27 / 74) </summary>
+<summary> Level 2 (진행 중 - 28 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -102,6 +102,7 @@
 | 25 | [더 맵게](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_25%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb) | 힙(Heap) |  |
 | 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
 | 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
+| 28 | [다리를 지나는 트럭](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_28%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.ipynb) | 스택/큐 ||
   
   </div>
 </details>
