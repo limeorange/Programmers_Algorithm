@@ -83,7 +83,7 @@
 | 06 | [숫자의 표현](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_06%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.ipynb) | 연습문제 |  |
 | 07 | [모음 사전](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_07%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.ipynb) | 위클리 챌린지 |  |
 | 08 | [올바른 괄호](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_08%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.ipynb) | 연습문제 |  |
-| 09 | [오픈채팅방](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_09%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.ipynb) | 2019 KAKAO BLIND RECRUITMENT |  |
+| 09 | [오픈채팅방](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_09%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.ipynb) | 2019 KAKAO BLIND RECRUITMENT | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
 | 10 | [기능 개발](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_10%20%EA%B8%B0%EB%8A%A5%20%EA%B0%9C%EB%B0%9C.ipynb) | 스택/큐 |  |
 | 11 | [수식 최대화](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_11%20%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.ipynb) | 2020 카카오 인턴십 |  |
 | 12 | [[1차] 뉴스 클러스터링](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_12%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
