@@ -69,46 +69,46 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 33 / 74) </summary>
+<summary> Level 2 (진행 중 - 34 / 74) </summary>
 <div markdown='1'>  
 <br>
   
 | No. | Title | Type | Blog |
 |:------:|:-----:|:----:|:----:|
-| 01 | [최솟값 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_01%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 연습문제 |  |
-| 02 | [행렬의 곱셈](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_02%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.ipynb) | 연습문제 |  |
-| 03 | [최댓값과 최솟값](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_03%20%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.ipynb) | 연습문제 |  |
-| 04 | [N개의 최소공배수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_04%20N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.ipynb) | 연습문제 |  |
-| 05 | [JadenCase 문자열 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_05%20JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 연습문제 |  |
-| 06 | [숫자의 표현](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_06%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.ipynb) | 연습문제 |  |
-| 07 | [모음 사전](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_07%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.ipynb) | 위클리 챌린지 |  |
-| 08 | [올바른 괄호](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_08%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.ipynb) | 연습문제 |  |
-| 09 | [오픈채팅방](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_09%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.ipynb) | 2019 KAKAO BLIND RECRUITMENT |  |
-| 10 | [기능 개발](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_10%20%EA%B8%B0%EB%8A%A5%20%EA%B0%9C%EB%B0%9C.ipynb) | 스택/큐 |  |
-| 11 | [수식 최대화](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_11%20%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.ipynb) | 2020 카카오 인턴십 |  |
-| 12 | [[1차] 뉴스 클러스터링](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_12%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
-| 13 | [다음 큰 숫자](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_13%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.ipynb) | 연습문제 |  |
-| 14 | [피보나치 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_14%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.ipynb) | 연습문제 |  |
-| 15 | [피로도](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_15%20%ED%94%BC%EB%A1%9C%EB%8F%84.ipynb) | 위클리 챌린지 |  |
-| 16 | [스킬트리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_16%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.ipynb) | Summer/Winter Coding(~2018) |  |
-| 17 | [전화번호 목록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_17%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.ipynb) | 해시 |  |
-| 18 | [가장 큰 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_18%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.ipynb) | 정렬 |  |
-| 19 | [영어 끝말잇기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_19%20%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.ipynb) | Summer/Winter Coding(~2018) |  |
-| 20 | [위장](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_20%20%EC%9C%84%EC%9E%A5.ipynb) | 해시 |  |
-| 21 | [메뉴 리뉴얼](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_21%20%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.ipynb) | 2021 KAKAO BLIND RECRUITMENT |  |
-| 22 | [소수 찾기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_22%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.ipynb) | 완전탐색 |  |
-| 23 | [카펫](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_23%20%EC%B9%B4%ED%8E%AB.ipynb) | 완전탐색 |  |
-| 24 | [H-Index](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_24%20H-Index.ipynb) | 정렬 |  |
-| 25 | [더 맵게](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_25%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb) | 힙(Heap) |  |
-| 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
-| 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
-| 28 | [다리를 지나는 트럭](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_28%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.ipynb) | 스택/큐 ||
-| 29 | [줄 서는 방법](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb) | 연습문제 ||
-| 30 | [프린터](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_30%20%ED%94%84%EB%A6%B0%ED%84%B0.ipynb) | 스택/큐 ||
-| 31 | [멀리 뛰기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_31%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.ipynb) | 연습문제 ||
-| 32 | [구명보트](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_32%20%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.ipynb) | 탐욕법(Greedy) ||
-| 33 | [주식가격](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_33%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.ipynb) | 스택/큐 ||
-| 34 |  |  |  |
+| 01 | [최솟값 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_01%20%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 연습문제 | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%B5%9C%EC%86%9F%EA%B0%92-%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+| 02 | [행렬의 곱셈](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_02%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88.ipynb) | 연습문제 | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%ED%96%89%EB%A0%AC%EC%9D%98-%EA%B3%B1%EC%85%88) |
+| 03 | [최댓값과 최솟값](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_03%20%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%20%EC%B5%9C%EC%86%9F%EA%B0%92.ipynb) | 연습문제 | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC-%EC%B5%9C%EC%86%9F%EA%B0%92) |
+| 04 | [N개의 최소공배수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_04%20N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.ipynb) | 연습문제 | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-N%EA%B0%9C%EC%9D%98-%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) |
+| 05 | [JadenCase 문자열 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_05%20JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 연습문제 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-JadenCase-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0) |
+| 06 | [숫자의 표현](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_06%20%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84.ipynb) | 연습문제 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%88%AB%EC%9E%90%EC%9D%98-%ED%91%9C%ED%98%84) |
+| 07 | [모음 사전](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_07%20%EB%AA%A8%EC%9D%8C%20%EC%82%AC%EC%A0%84.ipynb) | 위클리 챌린지 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-dky9qcpp) |
+| 08 | [올바른 괄호](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_08%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8.ipynb) | 연습문제 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%98%AC%EB%B0%94%EB%A5%B8-%EA%B4%84%ED%98%B8) |
+| 09 | [오픈채팅방](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_09%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.ipynb) | 2019 KAKAO BLIND RECRUITMENT | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9) |
+| 10 | [기능 개발](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_10%20%EA%B8%B0%EB%8A%A5%20%EA%B0%9C%EB%B0%9C.ipynb) | 스택/큐 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EB%B0%9C) |
+| 11 | [수식 최대화](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_11%20%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.ipynb) | 2020 카카오 인턴십 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%88%98%EC%8B%9D-%EC%B5%9C%EB%8C%80%ED%99%94) |
+| 12 | [[1차] 뉴스 클러스터링](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_12%20%5B1%EC%B0%A8%5D%20%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-1%EC%B0%A8-%EB%89%B4%EC%8A%A4-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) |
+| 13 | [다음 큰 숫자](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_13%20%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90.ipynb) | 연습문제 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EB%8B%A4%EC%9D%8C-%ED%81%B0-%EC%88%AB%EC%9E%90) |
+| 14 | [피보나치 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_14%20%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98.ipynb) | 연습문제 | [🍋]() |
+| 15 | [피로도](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_15%20%ED%94%BC%EB%A1%9C%EB%8F%84.ipynb) | 위클리 챌린지 | [🍋](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%ED%94%BC%EB%A1%9C%EB%8F%84) |
+| 16 | [스킬트리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_16%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.ipynb) | Summer/Winter Coding(~2018) | [🍋]() |
+| 17 | [전화번호 목록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_17%20%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D.ipynb) | 해시 | [🍋]() |
+| 18 | [가장 큰 수](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_18%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98.ipynb) | 정렬 | [🍋]() |
+| 19 | [영어 끝말잇기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_19%20%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0.ipynb) | Summer/Winter Coding(~2018) | [🍋]() |
+| 20 | [위장](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_20%20%EC%9C%84%EC%9E%A5.ipynb) | 해시 | [🍋]() |
+| 21 | [메뉴 리뉴얼](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_21%20%EB%A9%94%EB%89%B4%20%EB%A6%AC%EB%89%B4%EC%96%BC.ipynb) | 2021 KAKAO BLIND RECRUITMENT | [🍋]() |
+| 22 | [소수 찾기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_22%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.ipynb) | 완전탐색 | [🍋]() |
+| 23 | [카펫](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_23%20%EC%B9%B4%ED%8E%AB.ipynb) | 완전탐색 | [🍋]() |
+| 24 | [H-Index](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_24%20H-Index.ipynb) | 정렬 | [🍋]() |
+| 25 | [더 맵게](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_25%20%EB%8D%94%20%EB%A7%B5%EA%B2%8C.ipynb) | 힙(Heap) | [🍋]() |
+| 26 | [[3차] 파일명 정렬](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_26%20%5B3%EC%B0%A8%5D%20%ED%8C%8C%EC%9D%BC%EB%AA%85%20%EC%A0%95%EB%A0%AC.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
+| 27 | [[1차] 프렌즈4블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_27%20%5B1%EC%B0%A8%5D%20%ED%94%84%EB%A0%8C%EC%A6%884%EB%B8%94%EB%A1%9D.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
+| 28 | [다리를 지나는 트럭](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_28%20%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD.ipynb) | 스택/큐 | [🍋]() |
+| 29 | [줄 서는 방법](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_29%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb) | 연습문제 | [🍋]() |
+| 30 | [프린터](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_30%20%ED%94%84%EB%A6%B0%ED%84%B0.ipynb) | 스택/큐 | [🍋]() |
+| 31 | [멀리 뛰기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_31%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
+| 32 | [구명보트](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_32%20%EA%B5%AC%EB%AA%85%EB%B3%B4%ED%8A%B8.ipynb) | 탐욕법(Greedy) | [🍋]() |
+| 33 | [주식가격](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_33%20%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.ipynb) | 스택/큐 | [🍋]() |
+| 34 | [큰 수 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_34%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 탐욕법(Greedy) | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Python-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C-%EC%88%AB%EC%9E%90-84mkrvun) |
 | 35 |  |  |  |
 | 36 |  |  |  |
 | 37 |  |  |  |
