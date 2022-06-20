@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 34 / 74) </summary>
+<summary> Level 2 (진행 중 - 35 / 74) </summary>
 <div markdown='1'>  
 <br>
   
