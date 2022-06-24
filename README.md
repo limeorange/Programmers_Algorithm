@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 36 / 74) </summary>
+<summary> Level 2 (진행 중 - 38 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -111,8 +111,12 @@
 | 34 | [큰 수 만들기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_34%20%ED%81%B0%20%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb) | 탐욕법(Greedy) | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4Python-x%EB%A7%8C%ED%81%BC-%EA%B0%84%EA%B2%A9%EC%9D%B4-%EC%9E%88%EB%8A%94-n%EA%B0%9C-%EC%88%AB%EC%9E%90-84mkrvun) |
 | 35 | [짝지어 제거하기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_35%20%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.ipynb) | 2017 팁스타운 | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%A7%9D%EC%A7%80%EC%96%B4-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |
 | 36 | [주차 요금 계산](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_36%20%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0.ipynb) | 2022 KAKAO BLIND RECRUITMENT | [🍊](https://velog.io/@limeorange/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-Python-%EC%A3%BC%EC%B0%A8-%EC%9A%94%EA%B8%88-%EA%B3%84%EC%82%B0) |
-| 37 |  |  |  |
-| 38 |  |  |  |
+| 37 | [순위 검색](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_37%20%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.ipynb) | 2021 KAKAO BLIND RECRUITMENT | [🍋]() |
+| 38 | [가장 큰 정사각형 찾기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_38%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
+| 39 |  |  |  |
+| 40 |  |  |  |
+| 41 |  |  |  |
+| 42 |  |  |  |
   
   </div>
 </details>
