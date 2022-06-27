@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 39 / 74) </summary>
+<summary> Level 2 (진행 중 - 40 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -114,7 +114,7 @@
 | 37 | [순위 검색](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_37%20%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.ipynb) | 2021 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 38 | [가장 큰 정사각형 찾기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_38%20%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%A0%95%EC%82%AC%EA%B0%81%ED%98%95%20%EC%B0%BE%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
 | 39 | [멀쩡한 사각형](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_39%20%EB%A9%80%EC%A9%A1%ED%95%9C%20%EC%82%AC%EA%B0%81%ED%98%95.ipynb) | Summer/Winter Coding(2019) | [🍋]() |
-| 40 |  |  |  |
+| 40 | [[3차] 방금그곡](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_40%20%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 41 |  |  |  |
 | 42 |  |  |  |
   
