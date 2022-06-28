@@ -69,7 +69,7 @@
 
 
 <details>
-<summary> Level 2 (진행 중 - 42 / 74) </summary>
+<summary> Level 2 (진행 중 - 43 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -117,6 +117,7 @@
 | 40 | [[3차] 방금그곡](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_40%20%5B3%EC%B0%A8%5D%20%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 41 | [땅따먹기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_41%20%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
 | 42 | [숫자 블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_42%20%EC%88%AB%EC%9E%90%20%EB%B8%94%EB%A1%9D.ipynb) | 연습문제 | [🍋]() | 
+| 43 | [점프와 순간 이동](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_43%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.ipynb) | Summer/Winter Coding(~2018) | [🍋]() |
   
   </div>
 </details>
