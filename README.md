@@ -1,5 +1,6 @@
 # Programmers
-[프로그래머스](https://programmers.co.kr/learn/challenges)에서 문제를 풀고 공부한 내용을 기록하는 공간 ✍🏻✨  
+
+[프로그래머스](https://programmers.co.kr/learn/challenges)에서 문제를 풀고 공부한 내용을 기록하는 공간 ✍🏻✨
 
 <details>
 <summary> Level 1 (완료 - 55 / 55) </summary>
@@ -67,7 +68,6 @@
   </div>
 </details>
 
-
 <details>
 <summary> Level 2 (진행 중 - 44 / 74) </summary>
 <div markdown='1'>  
@@ -119,7 +119,7 @@
 | 42 | [숫자 블록](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_42%20%EC%88%AB%EC%9E%90%20%EB%B8%94%EB%A1%9D.ipynb) | 연습문제 | [🍋]() | 
 | 43 | [점프와 순간 이동](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_43%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.ipynb) | Summer/Winter Coding(~2018) | [🍋]() |
 | 44 | [[3차] n진수 게임](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_44%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
-| 45 |  |  |  |
+| 45 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | 2020 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 46 |  |  |  |
   
   
