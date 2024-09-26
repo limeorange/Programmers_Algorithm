@@ -120,7 +120,7 @@
 | 43 | [점프와 순간 이동](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_43%20%EC%A0%90%ED%94%84%EC%99%80%20%EC%88%9C%EA%B0%84%20%EC%9D%B4%EB%8F%99.ipynb) | Summer/Winter Coding(~2018) | [🍋]() |
 | 44 | [[3차] n진수 게임](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_44%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 45 | [문자열 압축](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_45%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.ipynb) | 2020 KAKAO BLIND RECRUITMENT | [🍋]() |
-| 46 | [[1차] 캐시](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_46%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
+| 46 | [[1차] 캐시](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_46%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 47 |  |  |  |
   
   
@@ -134,8 +134,8 @@
   
 | No. | Title | Type | Blog |
 |:------:|:-----:|:----:|:----:|
-| 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 |  |
-| 02 | [[1차] 셔틀버스](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_02%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
+| 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 | [🍋]() |
+| 02 | [[1차] 셔틀버스](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_02%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 03 |  |  |  |
 
  </div>
