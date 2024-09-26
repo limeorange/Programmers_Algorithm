@@ -133,9 +133,9 @@
   
 | No. | Title | Type | Blog |
 |:------:|:-----:|:----:|:----:|
-| 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 ||
+| 01 | [보석 쇼핑](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_01%20%EB%B3%B4%EC%84%9D%20%EC%87%BC%ED%95%91.ipynb) | 2020 카카오 인턴십 |  |
 | 02 | [[1차] 셔틀버스](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%203/Lv3_02%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
-| 03 | [[1차] 캐시]() | 2018 KAKAO BLIND RECRUITMENT |  |
+| 03 | [[1차] 캐시](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_46%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.ipynb) | 2018 KAKAO BLIND RECRUITMENT |  |
 | 04 |  |  |  |
 
  </div>
