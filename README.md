@@ -64,12 +64,13 @@
 | 53 | [키패드 누르기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%201/Lv1_53%20%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.ipynb) | 2020 카카오 인턴십 |
 | 54 | [3진법 뒤집기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%201/Lv1_54%203%EC%A7%84%EB%B2%95%20%EB%92%A4%EC%A7%91%EA%B8%B0.ipynb) | 월간 코드 챌린지 시즌1 |
 | 55 | [[1차] 비밀지도](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%201/Lv1_55%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.ipynb) | 2018 KAKAO BLIND RECRUITMENT |
+| 56 |  |  |  |
 
   </div>
 </details>
 
 <details>
-<summary> Level 2 (진행 중 - 46 / 74) </summary>
+<summary> Level 2 (진행 중 - 47 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -121,7 +122,8 @@
 | 44 | [[3차] n진수 게임](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_44%20%5B3%EC%B0%A8%5D%20n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 45 | [문자열 압축](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_45%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.ipynb) | 2020 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 46 | [[1차] 캐시](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_46%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
-| 47 |  |  |  |
+| 47 | [귤 고르기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_47%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
+| 48 |  |  |  |
   
   
   </div>
