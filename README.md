@@ -123,8 +123,13 @@
 | 45 | [문자열 압축](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_45%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.ipynb) | 2020 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 46 | [[1차] 캐시](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_46%20%5B1%EC%B0%A8%5D%20%EC%BA%90%EC%8B%9C.ipynb) | 2018 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 47 | [귤 고르기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_47%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
-| 48 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369?language=python3) | 2023 KAKAO BLIND RECRUITMENT | [🍋]() |
-| 49 |  |  |  |
+| 48 | [택배 배달과 수거하기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_48_%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EB%8B%AC%EA%B3%BC%20%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.ipynb) | 2023 KAKAO BLIND RECRUITMENT | [🍋]() |
+| 49 | [게임 맵 최단거리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_49%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.ipynb) | 깊이/너비 우선 탐색(DFS/BFS) | [🍋]() |
+| 50 |  |  |  |
+| 51 |  |  |  |
+| 52 |  |  |  |
+| 53 |  |  |  |
+| 54 |  |  |  |
   
   
   </div>
