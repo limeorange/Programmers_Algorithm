@@ -70,7 +70,7 @@
 </details>
 
 <details>
-<summary> Level 2 (진행 중 - 49 / 74) </summary>
+<summary> Level 2 (진행 중 - 50 / 74) </summary>
 <div markdown='1'>  
 <br>
   
@@ -125,11 +125,11 @@
 | 47 | [귤 고르기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_47%20%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.ipynb) | 연습문제 | [🍋]() |
 | 48 | [택배 배달과 수거하기](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_48_%ED%83%9D%EB%B0%B0%20%EB%B0%B0%EB%8B%AC%EA%B3%BC%20%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0.ipynb) | 2023 KAKAO BLIND RECRUITMENT | [🍋]() |
 | 49 | [게임 맵 최단거리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_49%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.ipynb) | 깊이/너비 우선 탐색(DFS/BFS) | [🍋]() |
-| 50 |  |  |  |
-| 51 |  |  |  |
-| 52 |  |  |  |
-| 53 |  |  |  |
-| 54 |  |  |  |
+| 50 | [호텔 대실](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_50%20%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.ipynb) | 연습문제 | [🍋]() |
+| 51 |  |  | [🍋]() |
+| 52 |  |  | [🍋]() |
+| 53 |  |  | [🍋]() |
+| 54 |  |  | [🍋]() |
   
   
   </div>
