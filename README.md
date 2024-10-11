@@ -127,7 +127,7 @@
 | 49 | [게임 맵 최단거리](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_49%20%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.ipynb) | 깊이/너비 우선 탐색(DFS/BFS) | [🍋]() |
 | 50 | [호텔 대실](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_50%20%ED%98%B8%ED%85%94%20%EB%8C%80%EC%8B%A4.ipynb) | 연습문제 | [🍋]() |
 | 51 | [이모티콘 할인행사](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_51%20%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98%20%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.ipynb) | 2023 KAKAO BLIND RECRUITMENT | [🍋]() |
-| 52 | [타겟 넘버]() | 깊이/너비 우선 탐색(DFS/BFS) | [🍋]() |
+| 52 | [타겟 넘버](https://github.com/limeorange/Programmers_Algorithm/blob/main/Level%202/Lv2_52%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.ipynb) | 깊이/너비 우선 탐색(DFS/BFS) | [🍋]() |
 | 53 | []() |  | [🍋]() |
 | 54 | []() |  | [🍋]() |
   
