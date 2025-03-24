@@ -1,14 +1,18 @@
 # 250324 월 PM 3:21
+# 전역변수 없이 인자로 변수 관리
+# 정수는 immutable 타입이므로 함수 내부에서 값이 바뀌어도 외부에 반영되지 않음
+# => return으로 정수값 반환하기!
 
 from collections import deque
 
-def BFS(y, x, maps, answer, visited):
-    
+def solution(maps):
     N, M = len(maps), len(maps[0])
+    answer = -1
+    visited = [[False] * M for _ in range(N)]
     
     # 1) 큐 생성 & 재방문 방지
-    q = deque([(y, x)])
-    visited[y][x] = True
+    q = deque([(0, 0)])
+    visited[0][0] = True
     
     # 2) 방문할 노드 탐색 (상하좌우, 방문X, 연결O)
     dy = [-1, 1, 0, 0]
@@ -20,8 +24,7 @@ def BFS(y, x, maps, answer, visited):
         
         # 정답 처리 (N-1, M-1) 도달한 경우
         if (cY, cX) == (N-1, M-1):
-            answer = maps[cY][cX]
-            return answer
+            return maps[cY][cX]
             
         for i in range(4):
             nY = cY + dy[i]
@@ -31,15 +34,4 @@ def BFS(y, x, maps, answer, visited):
                     visited[nY][nX] = True
                     maps[nY][nX] = maps[cY][cX] + 1
                     q.append((nY, nX))
-
-def solution(maps):
-    
-    N, M = len(maps), len(maps[0])
-    answer1 = -1
-    visited = [[False] * M for _ in range(N)]
-    
-    # BFS 호출
-    answer2 = BFS(0, 0, maps, answer1, visited)
-    answer = answer2 if answer2 else answer1
-    
     return answer
