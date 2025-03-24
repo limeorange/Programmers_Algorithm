@@ -1,4 +1,4 @@
-# 250324 월 PM 3:19
+# 250324 월 PM 3:21
 
 from collections import deque
 
@@ -8,7 +8,7 @@ def BFS(y, x, maps, answer, visited):
     
     # 1) 큐 생성 & 재방문 방지
     q = deque([(y, x)])
-    maps[y][x] = 0
+    visited[y][x] = True
     
     # 2) 방문할 노드 탐색 (상하좌우, 방문X, 연결O)
     dy = [-1, 1, 0, 0]
@@ -20,7 +20,7 @@ def BFS(y, x, maps, answer, visited):
         
         # 정답 처리 (N-1, M-1) 도달한 경우
         if (cY, cX) == (N-1, M-1):
-            answer = maps[cY][cX] + 1
+            answer = maps[cY][cX]
             return answer
             
         for i in range(4):
